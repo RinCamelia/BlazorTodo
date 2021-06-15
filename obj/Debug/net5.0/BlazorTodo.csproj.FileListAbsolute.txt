@@ -56,3 +56,5 @@ C:\Users\rinca\OneDrive\Documents\GitHub\BlazorTodo\obj\Debug\net5.0\ref\BlazorT
 C:\Users\rinca\OneDrive\Documents\GitHub\BlazorTodo\obj\Debug\net5.0\BlazorTodo.pdb
 C:\Users\rinca\OneDrive\Documents\GitHub\BlazorTodo\obj\Debug\net5.0\BlazorTodo.genruntimeconfig.cache
 C:\Users\rinca\OneDrive\Documents\GitHub\BlazorTodo\obj\Debug\net5.0\BlazorTodo.csproj.CopyComplete
+C:\Users\rinca\OneDrive\Documents\GitHub\BlazorTodo\obj\Debug\net5.0\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\rinca\OneDrive\Documents\GitHub\BlazorTodo\obj\Debug\net5.0\Razor\Pages\Todo.razor.g.cs
